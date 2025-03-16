@@ -1,5 +1,6 @@
 # EX.No.-2.2 CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
-## Date :
+## Date : 16/03/25
+## Reg.No: 212223240035
 
 ## AIM: 
 
